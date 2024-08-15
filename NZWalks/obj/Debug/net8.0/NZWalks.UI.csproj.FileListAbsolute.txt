@@ -1,0 +1,17 @@
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\NZWalks.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\NZWalks.UI.AssemblyInfoInputs.cache
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\NZWalks.UI.AssemblyInfo.cs
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\NZWalks.UI.csproj.CoreCompileInputs.cache
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\NZWalks.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\NZWalks.UI.RazorAssemblyInfo.cache
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\NZWalks.UI.RazorAssemblyInfo.cs
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\staticwebassets.build.json
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\staticwebassets.development.json
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\staticwebassets\msbuild.NZWalks.UI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\staticwebassets\msbuild.build.NZWalks.UI.props
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NZWalks.UI.props
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NZWalks.UI.props
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\NZWalks.UI.dll
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\refint\NZWalks.UI.dll
+E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\obj\Debug\net8.0\NZWalks.UI.pdb

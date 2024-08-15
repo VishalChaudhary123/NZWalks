@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NZWalks.UI
+build_property.RootNamespace = NZWalks.UI
+build_property.ProjectDir = E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\NZWalks.UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Core Projects\Web API\Sameer Saini Web API Udemy\Consuming API\NZWalks\NZWalks\NZWalks.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Core Projects/Web API/Sameer Saini Web API Udemy/Consuming API/NZWalks/NZWalks/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Core Projects/Web API/Sameer Saini Web API Udemy/Consuming API/NZWalks/NZWalks/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Core Projects/Web API/Sameer Saini Web API Udemy/Consuming API/NZWalks/NZWalks/Views/Regions/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Core Projects/Web API/Sameer Saini Web API Udemy/Consuming API/NZWalks/NZWalks/Views/Regions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Core Projects/Web API/Sameer Saini Web API Udemy/Consuming API/NZWalks/NZWalks/Views/Regions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Core Projects/Web API/Sameer Saini Web API Udemy/Consuming API/NZWalks/NZWalks/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Core Projects/Web API/Sameer Saini Web API Udemy/Consuming API/NZWalks/NZWalks/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Core Projects/Web API/Sameer Saini Web API Udemy/Consuming API/NZWalks/NZWalks/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Core Projects/Web API/Sameer Saini Web API Udemy/Consuming API/NZWalks/NZWalks/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Core Projects/Web API/Sameer Saini Web API Udemy/Consuming API/NZWalks/NZWalks/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-uxrwffl3ut

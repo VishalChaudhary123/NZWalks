@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.ui\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.ui\\models\\dto\\regiondtorespnse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\models\\dto\\regiondtorespnse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.ui\\views\\regions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.ui\\models\\addregionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\models\\addregionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\models\\dtos\\walkdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dtos\\walkdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\models\\dtos\\regiondtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dtos\\regiondtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\models\\dtos\\walkdtoaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dtos\\walkdtoaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.ui\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B553021F-B42A-42FA-8EFD-465035F711FD}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\migrations\\20240718041755_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\migrations\\20240718041755_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|d:\\core projects\\web api\\sameer saini web api udemy\\consuming api\\nzwalks\\nzwalks\\nzwalks.api\\migrations\\nzwalksauthdb\\20240718041939_dbauthinital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64BE4FD-BB92-4D2A-A7C1-5CAC048CB8D2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\migrations\\nzwalksauthdb\\20240718041939_dbauthinital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Program.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Program.cs",
+              "RelativeToolTip": "NZWalks.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:35:14.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NZWalks.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:34:39.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwGAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:56:22.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeToolTip": "NZWalks.API\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:01:53.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Controllers\\RegionsController.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Controllers\\RegionsController.cs*",
+              "RelativeToolTip": "NZWalks.UI\\Controllers\\RegionsController.cs*",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAwIkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:03:12.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T06:03:39.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegionDTORespnse.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Models\\DTO\\RegionDTORespnse.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Models\\DTO\\RegionDTORespnse.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Models\\DTO\\RegionDTORespnse.cs",
+              "RelativeToolTip": "NZWalks.UI\\Models\\DTO\\RegionDTORespnse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:41:54.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddRegionViewModel.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "RelativeToolTip": "NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:42:46.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T07:01:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Walk.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Walk.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Walk.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Walk.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:22:11.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLWalkRepository.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAIwFQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:59:39.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAWwCQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:15:52.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WalkDTOResponse.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTOs\\WalkDTOResponse.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTOs\\WalkDTOResponse.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTOs\\WalkDTOResponse.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTOs\\WalkDTOResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:31:23.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Region.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:38:11.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegionDTOResponse.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTOs\\RegionDTOResponse.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTOs\\RegionDTOResponse.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTOs\\RegionDTOResponse.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTOs\\RegionDTOResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:22:48.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NZWalksDbContext.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAlwF8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:16:56.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLRegionRepository.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwC8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:38:33.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalks.API\\appsettings.json",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeToolTip": "NZWalks.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T04:16:23.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:19:57.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Difficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:38:04.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Image.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:38:06.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:19:05.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WalkDTOAddRequest.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTOs\\WalkDTOAddRequest.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTOs\\WalkDTOAddRequest.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTOs\\WalkDTOAddRequest.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTOs\\WalkDTOAddRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:21:44.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTOs\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTOs\\LoginRequestDTO.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTOs\\LoginRequestDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTOs\\LoginRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:31:19.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:31:16.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:26:48.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NZWalksAuthDbContext.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksAuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:16:58.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240718041755_Initial.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Migrations\\20240718041755_Initial.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20240718041755_Initial.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Migrations\\20240718041755_Initial.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\20240718041755_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:17:55.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T07:34:01.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240718041939_DBAuthInital.cs",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Migrations\\NZWalksAuthDb\\20240718041939_DBAuthInital.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\NZWalksAuthDb\\20240718041939_DBAuthInital.cs",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.API\\Migrations\\NZWalksAuthDb\\20240718041939_DBAuthInital.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\NZWalksAuthDb\\20240718041939_DBAuthInital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:19:39.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Core Projects\\Web API\\Sameer Saini Web API Udemy\\Consuming API\\NZWalks\\NZWalks\\NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T06:57:14.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
